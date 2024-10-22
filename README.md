@@ -68,7 +68,7 @@ Models preference-tuned on MATRIX-SFT-Model using MATRIX-Gen-DPO outperform base
 </div>
 
 
-## Effect of scenario scale & structured communication
+## Effect of Scenario Scale & Structured Communication
 
 Increasing scales of agents and scenarios significantly improves model performances. Agent-grouping-based structured communication produces the highest quality scenarios, while
 random communication and no communication yield lower quality results.
